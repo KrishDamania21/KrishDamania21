@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrishDamania21
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics and Python
-- 💞️ I’m looking to collaborate on Data analytics projects
+- 😎 I'm looking to collaborate on Data analytics projects
 - 📫 How to reach me email me @krishdamania02@gmail.com
 
 <!---
